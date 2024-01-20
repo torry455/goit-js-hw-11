@@ -139,7 +139,6 @@ body {
 }
 
 .gallery-item {
-  /* flex-basis: calc((100% - 24px * 2) / 3); */
   width: 360px;
   border: 1px solid #111;
   border-radius: 4px;

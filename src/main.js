@@ -2,6 +2,7 @@ import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 import simpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
+import bixOctagonSvg from './img/bi_x-octagon.svg';
 
 const form = document.querySelector('.form');
 const formInput = document.querySelector('.form-input');
